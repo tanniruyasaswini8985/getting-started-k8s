@@ -17,14 +17,3 @@ All Kubernetes YAML manifests are in the `Pods`, `Services`, and `Deployments` f
 List of additional books, courses, blogs, and other places this repo is used/referenced:
 
 - None
-
-## Pre-created image
-
-A publically available pre-created container image is available for download [here](https://hub.docker.com/repository/docker/nigelpoulton/getting-started-k8s)
-
-## Connect with me
-
-I'm passionate about tech, and I'm all about making Kubernetes less scary!
-
-- Twitter: [@nigelpoulton](https://twitter.com/nigelpoulton)
-- LinkedIn: [Nigel Poulton](https://www.linkedin.com/in/nigelpoulton/)
